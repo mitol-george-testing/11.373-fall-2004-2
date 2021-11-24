@@ -1,0 +1,47 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Public Administration",
+      "Environmental Policy"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Science and Technology Policy"
+    ],
+    [
+      "Social Science",
+      "Political Science",
+      "Comparative Politics"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ],
+    [
+      "Social Science",
+      "Political Science",
+      "American Politics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "e1f0f6f5-7d85-c208-3d58-5ab87852fb08"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Science, Politics, and Environmental Policy",
+  "course_description": "This class examines the role of science in the US environmental policy-making process. It investigates the methods scientists use to learn about the natural world, the way scientific knowledge accumulates, the treatment of science by advocates and the media, and the role of science in legislative, administrative and judicial decision making. It also considers how other political systems use science in an effort to put the US approach in comparative perspective.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.373",
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
